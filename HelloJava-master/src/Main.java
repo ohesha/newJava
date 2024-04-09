@@ -12,6 +12,8 @@ public class Main {
 
         //Added line of code
         System.out.println("Changed by Esha Bhat!");
+        System.out.println("Welcome to the calculator");
+        
         System.out.println("Enter Operator - + / * ");
         oper = operator.nextLine();
 
